@@ -3,7 +3,7 @@ Nlogin Steam is a batch script that will help you change your account fast.
 (The batch script is currently in romanian only)
 
 # In this version of the SLIM one
-you can visually change the name after "vvv"
+you can visually change the name after "vvv" inside the user.cc file
 
 # Usage
 1) After launching the batch file you will need to type a nuber between 1 and 6
