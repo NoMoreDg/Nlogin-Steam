@@ -1,7 +1,9 @@
 # Nlogin-Steam
 Nlogin Steam is a batch script that will help you change your account fast.
 (The batch script is currently in romanian only)
-
+# In this version of the SLIM one
+In this version i've added a button "B" to log out of the existing user
+without removing the remember password option (preventing logging out of the other accounts)
 # Usage
 1) After launching the batch file you will need to type a nuber between 1 and 6
    depending on your accounts count
