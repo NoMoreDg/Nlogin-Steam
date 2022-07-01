@@ -1,5 +1,5 @@
 # Nlogin-Steam
-Nlogin Steam is a batch script that will help you change your account fast.
+Nlogin Steam is a batch script that will help you change your steam account fast.
 
 # Languages
 1. Romanian
