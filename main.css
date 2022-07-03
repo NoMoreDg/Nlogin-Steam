@@ -1,11 +1,10 @@
 body {
   font-family: Arial;
-  background-image: url('bkg.gif');
+  background-image: url('galaxy.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  loop: infinite;
 }
 .button {
   background-color: #4CAF50;
