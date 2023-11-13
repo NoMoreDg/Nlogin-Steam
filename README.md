@@ -16,8 +16,11 @@ the old X2V2 version) to " NLOGIN " 3D Dynamic ASCII ART (Dynamic meaning it cha
 based on colors from 1 to 6).
 
 # Languages
-1. Romanian (Old ver X2V2)
-2. English (New ver X2V3)
+1. Romanian (New ver X2V4)
+2. English (Language addon+file needed)
+3. Italian (Language addon+file needed)
+
+(language files does not affect ENCC.cc for future reasons.. more addons)
 
 # How to use
 1. Create a folder inside a drive (Ex. C:\)
@@ -56,6 +59,15 @@ Open "User.cc" and after the "VVV" mark/line change the names with whatever you 
 Simply drag and drop the new version, I will include in every version the support for
 old files or bonus scripts to convert/update to the new version
 
+# How to use/install addons?
+Simply drag and drop them inside the same file with the NLogin Script
+(for language files just drag the lgctrl.txt file inside the folder aswell)
+
+# Getting Error from new X2V4 Update while using language addon?
+Just put a language file found inside either RAR file in the releases page
+Either on main page all the way to the top inside languages folder and download
+specific language file.
+
 # Goals? (since i've started the project)
 ✅ 3 Active usernames
 
@@ -80,9 +92,11 @@ old files or bonus scripts to convert/update to the new version
 
 ✅ Disco mode (older version)
 
-❌ Customizable ASCII ART? (Removed recently for some testing and forgot to
+❌✅ Customizable ASCII ART? (Removed recently for some testing and forgot to
   put it back, i will do a workaround that will still update the ig.txt file
   and at the same time if you have customig.txt to use that instead of ig.txt)
+  (Still possible if not changing colors, otherwise you will have to place
+  your art back inside the ig.txt, i will be working next release on a fix)
 
 ❌ Installer with .ps1  - (i will work on a simple install script with powershell
   to just open the console and execute the command that will do simple basic work 
@@ -92,13 +106,22 @@ old files or bonus scripts to convert/update to the new version
   with windows powershell, why? smaller file size but will be limited just for
   On-Line/access to internet only, also pretty useless in that case)
 
-❌ External advanced color changer (maybe i will)
+❌ External advanced color changer (maybe i will, yk? open source while addons
+are active means you can make your own design and color changer for every ascii 
+art you got)
 
-❌ External language files
+✅ External language files
 
-❌ Read and convert both Romanian and English CC.cc/ENCC.cc to a single file in case
-  someone wants a newer version untill updating script to newer version (unless
-  i update to file based language and no needing for this script anymore)
+# Thinking this script is useless?
+- Well... this app strated developing way before steam ever had a change account
+  option.
+- Steam will always require you to enter your steam guard every time you change
+  the account to existing one.
+- One time login, dont worry about steam not working/offline servers.
+  (It means you can launch multiple accounts without steam verifying your
+  session , please dont use this script to/try to violate steam TOS)
+- Some of the features are useless, but you know what makes a better experience?
+  USELESS FEATURES FOR NO REASON.
 
 # Any ideeas you guys have?
 ❓Send me requests (messages) over on discord and maybe i will include
