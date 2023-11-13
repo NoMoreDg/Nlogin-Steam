@@ -117,6 +117,8 @@ art you got)
   option.
 - Steam will always require you to enter your steam guard every time you change
   the account to existing one.
+  (This script will allow steam to store multiple tokens inside windows so you
+  wont need steam guard codes ever again with a faster account switcher)
 - One time login, dont worry about steam not working/offline servers.
   (It means you can launch multiple accounts without steam verifying your
   session , please dont use this script to/try to violate steam TOS)
