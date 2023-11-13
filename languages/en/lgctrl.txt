@@ -1,0 +1,20 @@
+::Translations
+Number of accounts between 1-12
+Account
+Here you can change the nickname
+Move with
+And execute with
+Switch colors
+Log out
+Select username between 1-6
+To execute
+::MENU CONTROL
+wsad
+::MENU EXECUTE
+e
+::LOGOUT
+b
+::COLOR MENU
+ws
+::CHANGE COLOR
+c

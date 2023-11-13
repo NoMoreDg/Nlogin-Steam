@@ -1,0 +1,20 @@
+::Traduzioni
+Numero di conti compreso tra 1-12
+Account
+Qui è possibile modificare il nickname
+Spostare con
+Ed accesso con
+Cambiare colore
+Disconnettersi
+Selezionare il nome utente tra 1-6
+Accesso
+::MENU CONTROLLO
+wsad
+::MENU ESEGUIRE
+e
+::LOGOUT
+b
+::MENU COLORE
+ws
+::CAMBIO COLORE
+c
