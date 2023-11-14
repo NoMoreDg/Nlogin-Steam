@@ -91,17 +91,21 @@ specific language file.
 
 ✅ Disco mode (older version)
 
-❌✅ Customizable ASCII ART? (Removed recently for some testing and forgot to
+❌ (REQUESTED) DISCO MODE for igcustom.txt or internal ig.txt (DISCO MODE COMING
+   BACK WITH A NEW ALTERNATIVE FOR INTEGRATED IG AND CUSTOM IG/ASCII ART
+   IT WILL BE DISPLAYED ONLY AS A SECRET EASTEREGG)
+
+❌✅ (REQUESTED) Customizable ASCII ART? (Removed recently for some testing and forgot to
   put it back, i will do a workaround that will still update the ig.txt file
   and at the same time if you have customig.txt to use that instead of ig.txt)
   (Still possible if not changing colors, otherwise you will have to place
   your art back inside the ig.txt, i will be working next release on a fix)
 
-❌ Installer with .ps1  - (i will work on a simple install script with powershell
+❌ (REQUESTED) Installer with .ps1  - (i will work on a simple install script with powershell
   to just open the console and execute the command that will do simple basic work 
   for lazy people)
 
-❌ Conversion to .ps1   - (maybe i will do a simple command to execute from github
+❌ (REQUESTED) Conversion to .ps1   - (maybe i will do a simple command to execute from github
   with windows powershell, why? smaller file size but will be limited just for
   On-Line/access to internet only, also pretty useless in that case)
 
@@ -114,7 +118,7 @@ specific language file.
 ✅ Mode CON for OS based console (no effect on windows 11 but it will take
    effect between windows 7 and 10)
 
-✅ External language files
+✅ (REQUESTED) External language files
 
 # Thinking this script is useless?
 - Well... this app strated developing way before steam ever had a change account
