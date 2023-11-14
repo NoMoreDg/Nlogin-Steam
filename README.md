@@ -81,8 +81,7 @@ specific language file.
 
 ❌ 12 per user colors - (Removed in newer version because it was causing
   my lazy ass a lot of confusion when updating the script because i was unable to
-
-✅ understand my own work but i will include it later 😂)
+  understand my own work but i will include it later 😂)
 
 ✅ Customizable colors
 
