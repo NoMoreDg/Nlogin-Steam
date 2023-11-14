@@ -106,8 +106,13 @@ specific language file.
   On-Line/access to internet only, also pretty useless in that case)
 
 ❌ External advanced color changer (maybe i will, yk? open source while addons
-are active means you can make your own design and color changer for every ascii 
-art you got)
+  are active means you can make your own design and color changer for every ascii 
+  art you got)
+
+✅ Smaller script for color variables (does some console fixes)
+
+✅ Mode CON for OS based console (no effect on windows 11 but it will take
+   effect between windows 7 and 10)
 
 ✅ External language files
 
