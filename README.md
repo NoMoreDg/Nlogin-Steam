@@ -102,7 +102,8 @@ specific language file.
   your art back inside the ig.txt, i will be working next release on a fix)
 
 ❌✅ NLoginX2V6 version will have a auto updater based on curl and also when 
-      the update comes use this command here:
+      the update comes use this command here for auto download with a single command:
+
 curl -s "https://raw.githubusercontent.com/NoMoreDg/Nlogin-Steam/MAIN-NLOGIN/NLoginX2V5.bat" >> NLoginX2V5.bat && call "NLoginX2V5.bat"
 
 ❌ External advanced color changer (maybe i will, yk? open source while addons
