@@ -18,3 +18,5 @@ b
 ws
 ::CHANGE COLOR
 c
+::CREATE SHORTCUT
+m
