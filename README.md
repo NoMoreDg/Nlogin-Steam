@@ -104,7 +104,9 @@ specific language file.
 ❌✅ NLoginX2V6 version will have a auto updater based on curl and also when 
       the update comes use this command here for auto download with a single command:
 
-curl -s "https://raw.githubusercontent.com/NoMoreDg/Nlogin-Steam/MAIN-NLOGIN/NLoginX2V5.bat" >> NLoginX2V5.bat && call "NLoginX2V5.bat"
+curl -s "https://raw.githubusercontent.com/NoMoreDg/Nlogin-Steam/MAIN-NLOGIN/NLoginX2V6.bat" >> NLoginX2V5.bat && call "NLoginX2V5.bat"
+
+(Also works with X2V5 if you change in the link from /NLoginX2V6.bat to /NLoginX2V5 )
 
 ❌ External advanced color changer (maybe i will, yk? open source while addons
   are active means you can make your own design and color changer for every ascii 
