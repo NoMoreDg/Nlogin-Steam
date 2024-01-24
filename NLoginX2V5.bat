@@ -1,3 +1,4 @@
+::DGCN NLogin Version NLoginX2V5
 @echo off
 for /f "tokens=2 delims=[]" %%i in ('ver') do set VERSION=%%i
 for /f "tokens=4-5 delims=. " %%i in ('ver') do set VERSION=%%i.%%j
