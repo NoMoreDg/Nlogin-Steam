@@ -101,13 +101,9 @@ specific language file.
   (Still possible if not changing colors, otherwise you will have to place
   your art back inside the ig.txt, i will be working next release on a fix)
 
-❌ (REQUESTED) Installer with .ps1  - (i will work on a simple install script with powershell
-  to just open the console and execute the command that will do simple basic work 
-  for lazy people)
-
-❌ (REQUESTED) Conversion to .ps1   - (maybe i will do a simple command to execute from github
-  with windows powershell, why? smaller file size but will be limited just for
-  On-Line/access to internet only, also pretty useless in that case)
+❌✅ NLoginX2V6 version will have a auto updater based on curl and also when 
+      the update comes use this command here:
+curl -s "https://raw.githubusercontent.com/NoMoreDg/Nlogin-Steam/MAIN-NLOGIN/NLoginX2V5.bat" >> NLoginX2V5.bat && call "NLoginX2V5.bat"
 
 ❌ External advanced color changer (maybe i will, yk? open source while addons
   are active means you can make your own design and color changer for every ascii 
