@@ -16,9 +16,8 @@ the old X2V2 version) to " NLOGIN " 3D Dynamic ASCII ART (Dynamic meaning it cha
 based on colors from 1 to 6).
 
 # Languages
-1. Romanian (New ver X2V4)
-2. English (Language addon+file needed)
-3. Italian (Language addon+file needed)
+1. Romanian (New ver X2V6)
+2. English (Language.bat addon+lgctrl.txt file needed)
 
 (language files does not affect ENCC.cc for future reasons.. more addons)
 
@@ -26,23 +25,23 @@ based on colors from 1 to 6).
 1. Create a folder inside a drive (Ex. C:\)
    
 2. Drag and drop the .bat script
-   
-3. Right click and "send to desktop" (You can also set a custom name by renaming
- and icon by going to properties)
 
-4. Open it up and do the basic setup
+3. Open it up and do the basic setup
 
-5. When using the menu to login just execute (Hitting E on the correct username)
+4. When using the menu to login just execute (Hitting E on the correct username)
 
-6. When seeing the login prompt of Steam just login normally with
+5. When seeing the login prompt of Steam just login normally with
    !" REMEMBER PASSWORD "! enabled
    (The script does not log any login information, it works based on a
    remember password feature inside steam to keep multiple tokens active)
 
-7. Done. After that the only workaround to be able to login inside an account
+6. Done. After that the only workaround to be able to login inside an account
    only one time it would be to Hit B inside the console to logout (wont keep
    any tokens inside the computer for that specific account even if you do
    enable remember password inside the steam login menu)
+
+7. To create a shortcut right-click StartNLogin.bat, select send-to, desktop
+   (win 11 users: ight-click StartNLogin.bat, show-more-options, select send-to, desktop)
 
 # How to add or remove accounts?
 Open "User.cc" with any text editor (including notepad) and change the first number
@@ -56,8 +55,9 @@ Open "User.cc" and after the "VVV" mark/line change the names with whatever you 
 (Ignore the language if you are using English version, i was too lazy to do a change)
 
 # How to update?
-Simply drag and drop the new version, I will include in every version the support for
-old files or bonus scripts to convert/update to the new version
+No need.. since X2V6 the script has an autoupdater
+(if it doesnt work just remove the old file and place the new one inside the folder 
+then open it and it should generate a new version.txt for StartNLogin.bat to use)
 
 # How to use/install addons?
 Simply drag and drop them inside the same file with the NLogin Script
@@ -67,6 +67,9 @@ Simply drag and drop them inside the same file with the NLogin Script
 Just put a language file found inside either RAR file in the releases page
 Either on main page all the way to the top inside languages folder and download
 specific language file.
+
+# Not working?
+Make sure you are using windows 10 or above as the older ones were not tested.
 
 # Goals? (since i've started the project)
 ✅ 3 Active usernames
@@ -79,9 +82,7 @@ specific language file.
 
 ✅ 6 per user colors
 
-❌ 12 per user colors - (Removed in newer version because it was causing
-  my lazy ass a lot of confusion when updating the script because i was unable to
-  understand my own work but i will include it later 😂)
+❌ 12 per user colors - (maybe next update)
 
 ✅ Customizable colors
 
