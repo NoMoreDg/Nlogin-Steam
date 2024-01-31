@@ -95,22 +95,12 @@ specific language file.
    BACK WITH A NEW ALTERNATIVE FOR INTEGRATED IG AND CUSTOM IG/ASCII ART
    IT WILL BE DISPLAYED ONLY AS A SECRET EASTEREGG)
 
-❌✅ (REQUESTED) Customizable ASCII ART? (Removed recently for some testing and forgot to
-  put it back, i will do a workaround that will still update the ig.txt file
-  and at the same time if you have customig.txt to use that instead of ig.txt)
-  (Still possible if not changing colors, otherwise you will have to place
-  your art back inside the ig.txt, i will be working next release on a fix)
+✅ (REQUESTED) Customizable ASCII ART? (place ASCIIUI.bat inside the folder with the launcher and the main script)
 
-❌✅ NLoginX2V6 version will have a auto updater based on curl and also when 
-      the update comes use this command here for auto download with a single command:
+✅ AUTOUPDATER using CURL.
 
-curl -s "https://raw.githubusercontent.com/NoMoreDg/Nlogin-Steam/MAIN-NLOGIN/NLoginX2V6.bat" >> NLoginX2V5.bat && call "NLoginX2V5.bat"
-
-(Also works with X2V5 if you change in the link from /NLoginX2V6.bat to /NLoginX2V5 )
-
-❌ External advanced color changer (maybe i will, yk? open source while addons
-  are active means you can make your own design and color changer for every ascii 
-  art you got)
+❌ No need for a external color changer for now (only to make it as a optional addon)
+   for now is integrated and changed since X2V6 to be more modular (to be able to add more customizations)
 
 ✅ Smaller script for color variables (does some console fixes)
 
