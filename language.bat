@@ -40,4 +40,10 @@ set "b3=%result%" & set "line=18"
 set "b4=%result%" & set "line=20"
 
 (for /L %%i in (1,1,%line%) do set /P "result=") < lgctrl.txt
-set "b5=%result%"
+set "b5=%result%" & set "line=22"
+
+(for /L %%i in (1,1,%line%) do set /P "result=") < lgctrl.txt
+set "a10=%result%" & set "line=23"
+
+(for /L %%i in (1,1,%line%) do set /P "result=") < lgctrl.txt
+set "a11=%result%" & set "line=25"
